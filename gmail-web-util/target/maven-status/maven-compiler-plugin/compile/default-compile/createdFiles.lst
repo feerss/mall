@@ -1,0 +1,5 @@
+com\my\gmail\config\AuthInterceptor.class
+com\my\gmail\config\LoginRequire.class
+com\my\gmail\config\CookieUtil.class
+com\my\gmail\config\WebConst.class
+com\my\gmail\config\WebMvcConfiguration.class

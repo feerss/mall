@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/gmail-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/gmail-service-util/pom.xml" />
+        <option value="$PROJECT_DIR$/gmail-user-manage/pom.xml" />
+        <option value="$PROJECT_DIR$/gmail-order-web/pom.xml" />
+        <option value="$PROJECT_DIR$/gmail-manager-web/pom.xml" />
+        <option value="$PROJECT_DIR$/gmail-manager-service/pom.xml" />
+        <option value="$PROJECT_DIR$/fastdfs-client-java/pom.xml" />
+        <option value="$PROJECT_DIR$/gmail-item-web/pom.xml" />
+        <option value="$PROJECT_DIR$/gmail-list-service/pom.xml" />
+        <option value="$PROJECT_DIR$/gmail-list-web/pom.xml" />
+        <option value="$PROJECT_DIR$/gmail-passport-web/pom.xml" />
+        <option value="$PROJECT_DIR$/gmail-cart-web/pom.xml" />
+        <option value="$PROJECT_DIR$/gmail-cart-service/pom.xml" />
+        <option value="$PROJECT_DIR$/gmail-order-service/pom.xml" />
+        <option value="$PROJECT_DIR$/gware-manage/pom.xml" />
+        <option value="$PROJECT_DIR$/gmail-payment/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/gmail-parent/gmail-bean/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

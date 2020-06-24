@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gmail-manager-service" />
+        <module name="gmail-passport-web" />
+        <module name="gmail-order-service" />
+        <module name="gmail-user-manage" />
+        <module name="gmail-service-util" />
+        <module name="gmail-manager-web" />
+        <module name="gmail-item-web" />
+        <module name="gmail-cart-service" />
+        <module name="gmail-web-util" />
+        <module name="gmail-bean" />
+        <module name="gmail-interface" />
+        <module name="fastdfs-client-java" />
+        <module name="gmail-list-service" />
+        <module name="gmail-cart-web" />
+        <module name="gmail-payment" />
+        <module name="gmail-list-web" />
+        <module name="gmail-common-util" />
+        <module name="gmail-order-web" />
+        <module name="gmall-manage" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="fastdfs-client-java" target="1.6" />
+      <module name="gmail-bean" target="1.8" />
+      <module name="gmail-cart-service" target="1.8" />
+      <module name="gmail-cart-web" target="1.8" />
+      <module name="gmail-common-util" target="1.8" />
+      <module name="gmail-interface" target="1.8" />
+      <module name="gmail-item-web" target="1.8" />
+      <module name="gmail-list-service" target="1.8" />
+      <module name="gmail-list-web" target="1.8" />
+      <module name="gmail-manager-service" target="1.8" />
+      <module name="gmail-manager-web" target="1.8" />
+      <module name="gmail-order-service" target="1.8" />
+      <module name="gmail-order-web" target="1.8" />
+      <module name="gmail-parent" target="1.8" />
+      <module name="gmail-passport-web" target="1.8" />
+      <module name="gmail-payment" target="1.8" />
+      <module name="gmail-service-util" target="1.8" />
+      <module name="gmail-user-manage" target="1.8" />
+      <module name="gmail-web-util" target="1.8" />
+      <module name="gmall-manage" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="gmail-cart-service" options="" />
+      <module name="gmail-cart-web" options="" />
+      <module name="gmail-item-web" options="" />
+      <module name="gmail-list-service" options="" />
+      <module name="gmail-list-web" options="" />
+      <module name="gmail-manager-service" options="" />
+      <module name="gmail-manager-web" options="" />
+      <module name="gmail-order-service" options="" />
+      <module name="gmail-order-web" options="" />
+      <module name="gmail-passport-web" options="" />
+      <module name="gmail-payment" options="" />
+      <module name="gmail-user-manage" options="" />
+    </option>
+  </component>
+</project>

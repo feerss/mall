@@ -1,0 +1,6 @@
+com\my\gmail\service\CartService.class
+com\my\gmail\service\OrderService.class
+com\my\gmail\service\ManagerService.class
+com\my\gmail\service\UserService.class
+com\my\gmail\service\PaymentService.class
+com\my\gmail\service\ListService.class

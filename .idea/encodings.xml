@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/fastdfs-client-java/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fastdfs-client-java/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmail-bean/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmail-cart-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmail-cart-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmail-common-util/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmail-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmail-item-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmail-list-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmail-list-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmail-manager-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmail-manager-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmail-order-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmail-order-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmail-parent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmail-parent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmail-passport-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmail-payment/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmail-service-util/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmail-user-manage/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmail-web-util/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gware-manage/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

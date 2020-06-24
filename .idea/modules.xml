@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fastdfs-client-java/fastdfs-client-java.iml" filepath="$PROJECT_DIR$/fastdfs-client-java/fastdfs-client-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmail.iml" filepath="$PROJECT_DIR$/gmail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmail-bean/gmail-bean.iml" filepath="$PROJECT_DIR$/gmail-bean/gmail-bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmail-cart-service/gmail-cart-service.iml" filepath="$PROJECT_DIR$/gmail-cart-service/gmail-cart-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmail-cart-web/gmail-cart-web.iml" filepath="$PROJECT_DIR$/gmail-cart-web/gmail-cart-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmail-common-util/gmail-common-util.iml" filepath="$PROJECT_DIR$/gmail-common-util/gmail-common-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmail-interface/gmail-interface.iml" filepath="$PROJECT_DIR$/gmail-interface/gmail-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmail-item-web/gmail-item-web.iml" filepath="$PROJECT_DIR$/gmail-item-web/gmail-item-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmail-list-service/gmail-list-service.iml" filepath="$PROJECT_DIR$/gmail-list-service/gmail-list-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmail-list-web/gmail-list-web.iml" filepath="$PROJECT_DIR$/gmail-list-web/gmail-list-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmail-manager-service/gmail-manager-service.iml" filepath="$PROJECT_DIR$/gmail-manager-service/gmail-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmail-manager-web/gmail-manager-web.iml" filepath="$PROJECT_DIR$/gmail-manager-web/gmail-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmail-order-service/gmail-order-service.iml" filepath="$PROJECT_DIR$/gmail-order-service/gmail-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmail-order-web/gmail-order-web.iml" filepath="$PROJECT_DIR$/gmail-order-web/gmail-order-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmail-parent/gmail-parent.iml" filepath="$PROJECT_DIR$/gmail-parent/gmail-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmail-passport-web/gmail-passport-web.iml" filepath="$PROJECT_DIR$/gmail-passport-web/gmail-passport-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmail-payment/gmail-payment.iml" filepath="$PROJECT_DIR$/gmail-payment/gmail-payment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmail-service-util/gmail-service-util.iml" filepath="$PROJECT_DIR$/gmail-service-util/gmail-service-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmail-user-manage/gmail-user-manage.iml" filepath="$PROJECT_DIR$/gmail-user-manage/gmail-user-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmail-web-util/gmail-web-util.iml" filepath="$PROJECT_DIR$/gmail-web-util/gmail-web-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gware-manage/gmall-manage.iml" filepath="$PROJECT_DIR$/gware-manage/gmall-manage.iml" />
+    </modules>
+  </component>
+</project>
